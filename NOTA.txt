@@ -1,0 +1,6 @@
+existio un problema con eventmachine asi que use un comando
+en la terminal que va asi
+
+bundle update eventmachine
+
+se soluciono el problema y bundle ya funciono correctamente
